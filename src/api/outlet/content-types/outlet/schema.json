@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "outlets",
+  "info": {
+    "singularName": "outlet",
+    "pluralName": "outlets",
+    "displayName": "outlet",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "kodeoutlet": {
+      "type": "string"
+    },
+    "namaoutlet": {
+      "type": "string"
+    },
+    "alamat": {
+      "type": "richtext"
+    },
+    "kota": {
+      "type": "string"
+    },
+    "fixline": {
+      "type": "string"
+    },
+    "handphone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "aktif": {
+      "type": "string"
+    }
+  }
+}

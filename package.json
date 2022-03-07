@@ -17,6 +17,8 @@
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
     "sqlite3": "5.0.2",
+    "strapi-plugin-email-designer": "^2.0.9",
+    "strapi-plugin-entity-relationship-chart": "^4.0.2",
     "strapi-provider-upload-dos": "^4.0.5"
   },
   "author": {
